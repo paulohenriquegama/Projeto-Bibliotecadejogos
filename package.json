@@ -1,0 +1,15 @@
+{
+  "name": "projeto-bibliotecadejogos",
+  "version": "1.0.0",
+  "description": "Biblioteca de jogos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ."
+  },
+  "author": "Paulo Gama & Bruno",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
